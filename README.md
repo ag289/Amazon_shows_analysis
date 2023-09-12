@@ -1,4 +1,4 @@
-# Amazon_shows_analysis
+# Amazon Shows Data Analysis
 Analysis of Amazon Prime Shows and Movies
 
 ## Research Questions
